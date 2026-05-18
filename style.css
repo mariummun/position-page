@@ -4,3 +4,50 @@
     font-family :Arial, Helvetica, sans-serif;
 }
 
+body{
+    background-color : #333333;
+}
+
+.box{
+    height : 800px;
+    width : 80%;
+    margin : 0 auto ;
+    background-color: #669bbc;
+    margin-top : 50px;
+    margin-bottom : 50px;
+    border-radius : 10px;
+}
+
+.center{
+    height : 180px;
+    width : 180px;
+    margin : 0px auto;
+    background-color: #003049; 
+    border-radius : 50%;
+    position : relative;
+    top : 310px;
+    position : inline-block;
+    text-align : center;
+    color : white;
+}
+
+.panel{
+    height : 180px;
+    width : 180px;
+    background-color: #003049;
+    border-radius : 10px; 
+    text-align : center;
+    color : white;
+}
+
+.panel1{
+    position : relative;
+    left : 570px;
+    bottom : 130px;
+}
+
+.panel2{
+    position: relative;
+    
+}
+
